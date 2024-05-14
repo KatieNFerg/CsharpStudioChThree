@@ -23,3 +23,4 @@ C:\Users\16362\CsharpStudioChThree\StudioTwo\obj\Debug\net8.0\refint\StudioTwo.d
 C:\Users\16362\CsharpStudioChThree\StudioTwo\obj\Debug\net8.0\StudioTwo.pdb
 C:\Users\16362\CsharpStudioChThree\StudioTwo\obj\Debug\net8.0\StudioTwo.genruntimeconfig.cache
 C:\Users\16362\CsharpStudioChThree\StudioTwo\obj\Debug\net8.0\ref\StudioTwo.dll
+C:\Users\16362\CsharpStudioChThree\StudioTwo\obj\Debug\net8.0\StudioTwo.sourcelink.json
